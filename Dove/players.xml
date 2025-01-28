@@ -17,17 +17,13 @@
     <acl platform="EOS" userid="00021c8c8ef04dafa1fee1809041545a" />
     <bedroll pos="-724,37,431" />
   </player>
-  <player platform="EOS" userid="00021c8c8ef04dafa1fee1809041545a" nativeplatform="Steam" nativeuserid="76561198058841163" playername="m0rsik" playgroup="Standalone" lastlogin="2025-01-25 23:17:10" position="-717,37,430">
+  <player platform="EOS" userid="00021c8c8ef04dafa1fee1809041545a" nativeplatform="Steam" nativeuserid="76561198058841163" playername="m0rsik" playgroup="Standalone" lastlogin="2025-01-28 20:15:48" position="-720,37,426">
     <acl platform="EOS" userid="0002ee5476ea4022bc2a9c91e165e673" />
     <acl platform="EOS" userid="0002727a52674912846070c915a1cc82" />
     <bedroll pos="-724,37,425" />
     <questpositions>
-      <position id="1392553390" positiondatatype="2" pos="-1259,34,-1097" />
-      <position id="1392553390" positiondatatype="0" pos="-802,36,341" />
-      <position id="-1310390028" positiondatatype="2" pos="-2021,34,1510" />
-      <position id="-1310390028" positiondatatype="0" pos="-2289,40,1149" />
-      <position id="-1625992425" positiondatatype="2" pos="-2090,27,1677" />
-      <position id="-1625992425" positiondatatype="0" pos="-2289,40,1149" />
+      <position id="1552557715" positiondatatype="0" pos="-2289,40,1149" />
+      <position id="1552557715" positiondatatype="2" pos="-2167,33,1883" />
     </questpositions>
   </player>
 </persistentplayerdata>
